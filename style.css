@@ -80,3 +80,19 @@ font-size: 30px;
 }
 
 
+.buttonOrder {
+  font-size: 12px;
+  font-weight: 600;
+  width: 100px;
+  height: 50px;
+  margin-top: 4px;
+  border-radius: 6px;
+  background-color: #f16263;
+  color: white;
+  transition: all 0.3s;
+}
+
+.buttonOrder:hover {
+  transform: scale(1.1);
+}
+
