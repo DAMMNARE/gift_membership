@@ -1,6 +1,6 @@
 # Gift Membership Project
 
-Welcome to the Gift Membership Project! This project represents Day 2 of my coding challenge journey.
+Welcome to the Gift Membership Project! This project represents a simple challenge of my coding journey.
 
 ![Gift Membership Preview](https://github.com/DAMMNARE/gift_membership/assets/121613054/d4e3ad2a-40c9-4339-9f2c-555c9d398dfa)
 
